@@ -8,6 +8,7 @@ int comparator (const void * p1, const void * p2)//this is a part of qsort funct
 int main()
 {
 	int t;
+	//bakwas
 	scanf("%d",&t);
 	while(t)
 	{
